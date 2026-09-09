@@ -1,0 +1,4 @@
+interface:
+  display_name: "Public Affairs Policy Analyst"
+  short_description: "Turn policy signals into decision-ready public affairs analysis"
+  default_prompt: "Use $public-affairs-policy-analyst to analyze this policy or public issue, explain the business impact mechanism, map stakeholders, and recommend next actions."
