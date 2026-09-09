@@ -22,6 +22,19 @@
 - **比较政治视角**：在有必要时比较不同地区或制度环境下的政策逻辑，同时避免机械类比。
 - **公共沟通能力**：把复杂研究压缩为一页简报、管理层摘要、Q&A、talking points 和议题沟通材料。
 
+
+## Featured real-world case
+
+### AIGC 内容标识规则如何转化为内容平台治理议题
+
+仓库新增了一篇基于公开资料的真实政策案例，以《人工智能生成合成内容标识办法》、GB 45438—2025 以及小红书 2026 年公开 AI 治理规则为材料，展示如何完成：
+
+**政策识别 → 制度结构判断 → 平台业务影响分析 → Stakeholder mapping → 风险与机会判断 → 管理层简报 → 对外沟通**
+
+这个案例特别关注一个公共事务岗位经常面对的问题：法规文本给出的只是治理起点，企业真正需要判断的是监管目标如何进入产品、内容治理、创作者生态和用户信任。
+
+👉 [`examples/xiaohongshu-aigc-public-affairs-case.md`](examples/xiaohongshu-aigc-public-affairs-case.md)
+
 ## Repository structure
 
 ```text
@@ -30,7 +43,8 @@ public-affairs-policy-analyst/
 ├── LICENSE
 ├── examples/
 │   ├── hypothetical-platform-policy-brief.md
-│   └── hypothetical-public-communication.md
+│   ├── hypothetical-public-communication.md
+│   └── xiaohongshu-aigc-public-affairs-case.md
 └── skills/
     └── public-affairs-policy-analyst/
         ├── SKILL.md
